@@ -8,4 +8,4 @@ We have train (8523) and test (5681) data set, train data set has both input and
 
 
 ## Summary
-I have first calculated the least RMSE error on the train dataset for each of RandomForestRegressor, GradientBoostingRegressor and XGBoost Then which ever model has least RMSE is used on test data. This is done so that the code runs optimised on private the data test.
+I have first calculated the least RMSE error on the train dataset for each of RandomForestRegressor, GradientBoostingRegressor and Ridge Then which ever model has least RMSE is used on test data. This is done so that the code runs optimised on private the data test.
